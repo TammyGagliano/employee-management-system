@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System 
 
 ## Description: 
@@ -23,3 +24,6 @@ Open project directory, then npm install to install all dependencies
 ## Contributions
 Tammy Gagliano 
 https://github.com/TammyGagliano/note-taker
+=======
+# employee-management-system
+>>>>>>> 8c255345ebff7a2db2a1cdd78e02e9ffe18b2b47
