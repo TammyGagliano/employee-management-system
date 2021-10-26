@@ -89,7 +89,7 @@ app.get('/api/something', (req, res) => {
     });
   });
   
-  // Update review name
+  // Update review name. We are expecting two values. If there are multiple question marks how do we target each of them. Param is in an array. 
   app.put('/api/review/:id', (req, res) => {
     const sql = `UPDATE reviews SET review = ? WHERE id = ?`;
     const params = [req.body.review, req.params.id];

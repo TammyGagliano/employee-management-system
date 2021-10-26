@@ -1,0 +1,29 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "employee management system",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TammyGagliano/employee-management-system.git"
+  },
+  "keywords": [
+    "mysql",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TammyGagliano/employee-management-system/issues"
+  },
+  "homepage": "https://github.com/TammyGagliano/employee-management-system#readme"
+}
