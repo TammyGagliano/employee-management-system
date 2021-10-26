@@ -14,5 +14,10 @@ VALUES
 
 -- insert data into the employee table
 INSERT INTO employee (id, first_name, last_name, role_id, manager_id)
-VALUES ();
+VALUES 
+('Tim', 'Smith', 1, NULL),
+('Gina', 'Erwin', 2, 1),
+('Angela', 'Crowley', 3, 3),
+('Robert', 'Carroll', 4, 2),
+
 
