@@ -19,5 +19,6 @@ VALUES
 ('Gina', 'Erwin', 2, 1),
 ('Angela', 'Crowley', 3, 3),
 ('Robert', 'Carroll', 4, 2),
-
-
+('Tom', 'Collins', 5, NULL),
+('Samantha','Darrin', 6, 2),
+('Katherine','Young', 7, 1);
