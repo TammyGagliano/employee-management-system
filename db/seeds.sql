@@ -2,7 +2,7 @@ USE company_db;
 
 -- insert data into department table
 INSERT INTO department (id, department)
-VALUES ('Engineering', 'Software', 'Hardware', 'Development');
+VALUES ('Engineering', 'Software', 'Legal', 'Development');
 
 -- insert data into roles table
 INSERT INTO roles (id, title, salary, department_id)
