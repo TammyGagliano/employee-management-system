@@ -1,4 +1,4 @@
-USE employee_db;
+USE employee;
 
 -- insert data into department table
 INSERT INTO department (name)
