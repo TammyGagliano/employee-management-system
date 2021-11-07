@@ -9,6 +9,8 @@ init();
 function init() {
     const logoText = logo({ name: "Employee Manager"}).render();
     console.log(logoText);
+
+    runPrompts();
 }
 
 function runPrompts() {
