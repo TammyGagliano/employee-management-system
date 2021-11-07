@@ -5,14 +5,14 @@ require("console.table");
 
 init();
 
-// Display the logo text and load main prompts
+// Display logo text, load main prompts
 function init() {
-    const logoText = logo({ name: "Employee Manager"}).render();
-    console.log(logoText);
+  const logoText = logo({ name: "Employee Manager" }).render();
 
-    runPrompts();
+  console.log(logoText);
+
+  runPrompts();
 }
-
 function runPrompts() {
     prompt([
         {

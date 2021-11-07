@@ -35,4 +35,5 @@ Tammy Gagliano
 https://github.com/TammyGagliano/employee-management-system
 
 ## Video Walk-Through
+https://drive.google.com/file/d/1T7_DDmHyZf94dkgNw0lSpCPbusX-UQFP/view?usp=sharing
 
